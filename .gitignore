@@ -16,7 +16,7 @@ eggs/
 lib/
 lib64/
 parts/
-sdist/
+#sdist/
 var/
 wheels/
 share/python-wheels/
@@ -55,7 +55,7 @@ cover/
 *.pot
 
 .idea
-# dist
+## dist
 node_modules
 # Django stuff:
 *.log
