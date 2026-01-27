@@ -56,7 +56,7 @@ cover/
 *.pot
 
 .idea
-dist
+# dist
 node_modules
 # Django stuff:
 *.log
