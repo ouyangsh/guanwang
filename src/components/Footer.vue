@@ -7,6 +7,7 @@
       <div class="footer-logo">Haven</div>
       <p class="copyright">© 2026 Haven. All rights reserved.</p>
       <div class="social-links">
+        <a href="mailto:ailemeonline@163.com">ailemeonline@163.com</a>
         <a href="#">Privacy</a>
         <a href="#">Terms</a>
       </div>
